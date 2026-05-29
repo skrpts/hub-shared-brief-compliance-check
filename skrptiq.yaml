@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "54c01e36-bae9-4591-a096-c94c376f9bce"
+name: "brief-compliance-check"
+display_name: "Brief Compliance Check"
+description: "Checks output against its stated brief — required sections, constraints, and missing deliverables"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-brief-compliance-check"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
