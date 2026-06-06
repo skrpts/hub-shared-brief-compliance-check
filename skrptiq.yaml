@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "54c01e36-bae9-4591-a096-c94c376f9bce"
+id: "4d802a36-2cdd-444e-b3bf-39383793c6b3"
 name: "brief-compliance-check"
 display_name: "Brief Compliance Check"
 description: "Checks output against its stated brief — required sections, constraints, and missing deliverables"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
